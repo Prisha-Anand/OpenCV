@@ -5,10 +5,12 @@ METHOD INVOLVED
 3)	Type pip install opencv-contrib-python to download the opencv package which has inbuilt tools for face recognition which is necessary for the project.
 
 WHAT IS OPENCV?
+
 OpenCV is a computer vision library that offers a rich selection of algorithms used for object detection, face recognition, image restoration, and many other applications. Computer vision-based people detection is one of the library’s features. Computer vision integrated with IOT can be used to automate a lot of activities. One such activity is the attendance in classes. 
 Using OPENCV computer vision and python , with VSCODE, we can execute this and make it a reality.
 
 WHAT IS HAAR CASCADE ALGORITHM?
+
 Haar cascade is an algorithm that can detect objects in images, irrespective of their scale in image and location.This algorithm is not so complex and can run in real-time. We can train a haar-cascade detector to detect various objects like cars, bikes, buildings, fruits, etc. Haar cascade uses the cascading window, and it tries to compute features in every window and classify whether it could be an object.
 The xml file for the same is available online.
 We create a folder with sample photos and then attach the file location to the code.
