@@ -3,7 +3,7 @@ METHOD INVOLVED
 2)	Python along with PIP is installed and then the same is confirmed by typing the following in the cmd
 
 3)	Type pip install opencv-contrib-python to download the opencv package which has inbuilt tools for face recognition which is necessary for the project.
-4)	
+
 WHAT IS OPENCV?
 OpenCV is a computer vision library that offers a rich selection of algorithms used for object detection, face recognition, image restoration, and many other applications. Computer vision-based people detection is one of the library’s features. Computer vision integrated with IOT can be used to automate a lot of activities. One such activity is the attendance in classes. 
 Using OPENCV computer vision and python , with VSCODE, we can execute this and make it a reality.
